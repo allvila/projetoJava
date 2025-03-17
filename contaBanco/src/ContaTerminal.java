@@ -21,7 +21,7 @@ public class ContaTerminal {
         // Mensagem formatada com espaços adequados
                 System.out.println("Olá, " + nome + ", obrigado por criar uma conta em nosso banco. "
                 + "Sua agência é " + agencia + " conta " + numero 
-                + " e seu saldo R$ " + saldo + " já está disponível para saque.");
+                + " e seu saldo R$ " + saldo + " já está disponível para saque. Obrigado !");
 
                 scanner.close();
         }
