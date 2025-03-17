@@ -15,7 +15,6 @@
             "name": "AboutMe",
             "request": "launch",
             "mainClass": "AboutMe",
-            "args": ["Rayanne","Alvila", "25", "1.68"],
             "projectName": "projetoTerminal_98f81cca"
         },
         {
